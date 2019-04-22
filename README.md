@@ -2,6 +2,7 @@
 
 In this notebook, we analyzed a dataset from IMDB and use it to predict the sentiment analysis of a review.
 In this lab, the data were preproceed and we were in charge of building and training the model in Keras.
+Aimed accuracy is **85.23%**.
 
 ## The dataset
 
